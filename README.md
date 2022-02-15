@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-This is a simple recipe website. This will use HTML5 and contain no styling at the moment. This will demonstrate my knowledge of HTML structure. It will have a h1 heading and some internal links to recipes in another folder.
+This is a simple recipe website. This will use HTML5 and contain CSS. This will demonstrate my knowledge of HTML structure and CSS styling. It will have a h1 heading and some internal links to recipes in another folder.
 
 ## Getting Started <a name = "getting_started"></a>
 
