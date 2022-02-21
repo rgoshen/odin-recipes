@@ -1,5 +1,7 @@
 # Odin Recipes
 
+[Live](https://rgoshen.github.io/odin-recipes/)
+
 ## Table of Contents
 
 - [About](#about)
